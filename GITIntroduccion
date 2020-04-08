@@ -1,0 +1,13 @@
+1.Es un Sistema de Control de Versiones (VOS según sus siglas em inglés) que controla los cambios en los archivos
+
+2.Permite seguir los cambios del codigo, restaurarlo a version anterior
+
+3.Una consola o terminal con mejores funcionalidades que una normal 
+
+4. WD: se trabaja con los archivos
+SA: Agregar archivos para guardar
+Repository: 
+
+8. Hay que llamar al archivo ".gitignore"
+
+9. Un branch es una version alternativa del codigo, donde se ramifica y se continua por separado
